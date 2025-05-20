@@ -23,7 +23,7 @@ The model classifies text into the following categories:
 - Bipolar  
 - Personality Disorder  
 
-## 🧪 Machine Learning Models
+## Machine Learning Models
 
 The following models were trained and evaluated:
 
